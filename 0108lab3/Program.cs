@@ -57,7 +57,7 @@ namespace BinaryTreeAddLeaf
             Console.WriteLine("Дерево до изменения:");
             PrintTree(root);
             AddLeaf(root);
-            Console.WriteLine("\nДерево после изменения:");
+            Console.WriteLine("Дерево после изменения:");
             PrintTree(root);
         }
     }
